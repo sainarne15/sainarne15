@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainarne15
 - 👀 I’m interested in Machine Learning, Web Development (ASP.NET Core)
-- 🌱 I’m currently learning Threeway.js
+- 🌱 I’m currently learning Three-js
 
 - 📫 How to reach me : You can contact me through my email lakshmin262000@gmail.com and my linkedin: linkedin.com/in/sainarne15
 
