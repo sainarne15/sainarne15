@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sainarne15
-- 👀 I’m interested in Web Development, Machine Learning, 
-- 🌱 I’m currently learning Three-js
+- 👀 I’m interested in Web Development and Machine Learning, 
+- 🌱 I’m currently learning Three-js (A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.) and Blender (An open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.)
 
 - 📫 How to reach me : You can contact me through my email lakshmin262000@gmail.com and my linkedin: linkedin.com/in/sainarne15
 
