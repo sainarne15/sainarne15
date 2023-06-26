@@ -5,7 +5,6 @@
 - 📫 How to reach me : You can contact me through my email lakshmin262000@gmail.com and my linkedin: linkedin.com/in/sainarne15
 
 [![Narne's GitHub stats](https://github-readme-stats.vercel.app/api?username=sainarne15&show_icons=true&theme=radical)](https://github.com/sainarne15/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sainarne15&layout=compact)
 <!---
 sainarne15/sainarne15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
