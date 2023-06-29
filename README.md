@@ -2,8 +2,8 @@
 <h3 align="center">I’m interested in Web Development, DevOps and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainarne15&label=Profile%20views&color=0e75b6&style=flat" alt="sainarne15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainarne15" alt="sainarne15" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainarne15" alt="sainarne15" /></a> </p> -->
 
 - 🌱 I’m currently learning **Three-js (A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.) and Blender (An open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.)**
 
