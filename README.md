@@ -2,14 +2,18 @@
 <h3 align="center">I’m interested in Web Development, DevOps and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainarne15&label=Profile%20views&color=0e75b6&style=flat" alt="sainarne15" /> </p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainarne15" alt="sainarne15" /></a> </p> -->
 
-- 🌱 I’m currently learning **Three-js (A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.) and Blender (An open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.)**
+- 🔭 I’m currently working on **Building Docker images**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sainarne15/](https://github.com/sainarne15), also [https://sainarne15.github.io/](https://sainarne15.github.io/)
+- 🌱 I’m currently learning **Three-js, Blender, Kubernetes, AWS**
+
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 👨‍💻 All of my projects are available at [https://sainarne15.github.io/](https://sainarne15.github.io/)
 
 - 📫 How to reach me **lakshmin262000@gmail.com**
+
+- 📄 Know about my experiences [https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf](https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,9 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainarne15&show_icons=true&locale=en&layout=compact" alt="sainarne15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainarne15&show_icons=true&locale=en" alt="sainarne15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainarne15&" alt="sainarne15" /></p>
-
 
 
 
