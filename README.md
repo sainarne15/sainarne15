@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lakshmin262000@gmail.com**
 
-- 📄 Know about my experiences [https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf](https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf)
+- 📄 Know about my experiences [Resume](https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
