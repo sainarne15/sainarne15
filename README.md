@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three-js (A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.) and Blender (An open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.)**
 
-- 👨‍💻 All of my projects are available at [https://sainarne15.github.io/](https://sainarne15.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/sainarne15/](https://github.com/sainarne15), also [https://sainarne15.github.io/](https://sainarne15.github.io/)
 
 - 📫 How to reach me **lakshmin262000@gmail.com**
 
@@ -46,7 +46,7 @@
 
 
 
-
+<!--
 - 👋 Hi, I’m @sainarne15
 - 👀 I’m interested in Web Development, DevOps and Machine Learning, 
 - 🌱 I’m currently learning **Three-js** (A cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.) and **Blende**r (An open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, interactive 3D applications, virtual reality, and, formerly, video games.)
@@ -59,3 +59,4 @@
 sainarne15/sainarne15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-->
