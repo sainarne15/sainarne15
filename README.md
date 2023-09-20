@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainarne15&label=Profile%20views&color=0e75b6&style=flat" alt="sainarne15" /> </p>
 
-- 🔭 I’m currently working on **Building Docker images**
+- 🔭 I’m currently working on **Docker and Terraform**
 
 - 🌱 I’m currently learning **Three-js, Blender, Kubernetes, AWS**
 
