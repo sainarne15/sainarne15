@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://sainarne15.github.io/](https://sainarne15.github.io/)
+- 👨‍💻 My Website [https://sainarne15.github.io/](https://sainarne15.github.io/)
 
 - 📫 How to reach me **lakshmin262000@gmail.com**
 
