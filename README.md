@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf)
   
--  Recent Contributions: [Microsoft/vscode-flake8/](https://github.com/microsoft/vscode-flake8/releases/tag/v2023.8.0)
+- 🌟 Recent Open Contribution:  [Microsoft/vscode-flake8/](https://github.com/microsoft/vscode-flake8/releases/tag/v2023.8.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
