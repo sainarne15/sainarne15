@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Docker and Terraform projects**
 
-- 🌱 I’m currently learning **Three-js, Blender, Kubernetes, AWS**
+- 🌱 I’m currently learning **Three-js, Blender, Kubernetes, Azure, AWS**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
