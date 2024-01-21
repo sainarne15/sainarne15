@@ -9,11 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 My Website [https://sainarne15.github.io/](https://sainarne15.github.io/)
-
-- 📫 How to reach me **lakshmin262000@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://sainarne15.github.io/static/media/Resume.9d431dfa4ee7ca3a483e.pdf)
+- 📫 How to reach me **nlnarasimhasai15@gmail.com**
   
 - 🌟 Recent Open Source Contribution:  [Microsoft/vscode-flake8/](https://github.com/microsoft/vscode-flake8/releases/tag/v2023.8.0)
 
