@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 📫 How to reach me **nlnarasimhasai15@gmail.com**
+- 📫 How to reach me **sainarne15@gmail.com**
   
 - 🌟 Recent Open Source Contribution:  [Microsoft/vscode-flake8/](https://github.com/microsoft/vscode-flake8/releases/tag/v2023.8.0)
 
