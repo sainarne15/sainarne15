@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I’m interested in Web Development, DevOps and Machine Learning</h3>
+<h3 align="center">I’m interested in DE, DevOps and ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainarne15&label=Profile%20views&color=0e75b6&style=flat" alt="sainarne15" /> </p>
 
