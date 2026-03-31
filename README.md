@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I’m interested in DE, ML and SYS</h3>
+<h3 align="center">I’m interested in DE, AI and MLSYS</h3>
 
 
 - 🔭 I’m currently working on **ML SYS**
