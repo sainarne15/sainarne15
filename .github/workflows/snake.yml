@@ -1,0 +1,35 @@
+name: generate contribution snake
+
+on:
+  # run automatically once every 24 hours
+  schedule:
+    - cron: "0 */24 * * *"
+  # allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # also regenerate on push to main so the snake is fresh after README edits
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sainarne15
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
